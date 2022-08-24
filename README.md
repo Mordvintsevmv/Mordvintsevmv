@@ -2,10 +2,9 @@
   <img src="https://c.tenor.com/otSNUx7bno0AAAAi/monke-monkeroll.gif" width="100"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mordvintsevmv&layout=compact&bg_color=dark)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-
-<h3>Languages:</h3>
+<h2>Languages:</h2>
 
 <div id="languages">
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40" alt="python">
@@ -18,6 +17,15 @@
 
 
 </br>
+
+---
+
+<h2> Stats: </h2>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mordvintsevmv&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 <div id="links" align="center">
  
