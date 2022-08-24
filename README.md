@@ -5,9 +5,14 @@
 
 ---
 
-### Links:
+### Languages:
 
-<div id="links">
+<div id="languages">
+
+</div>
+
+
+<div id="links" align="center">
  
   <a href="https://www.linkedin.com/in/mordvintsevmv/">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="LinkedIn"/>
