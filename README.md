@@ -34,7 +34,7 @@
   </a>
  
   <a href="https://t.me/mordvintsevmv">
-    <img src="https://img.shields.io/badge/Instagram-9cf?style=for-the-badge" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-9cf?style=for-the-badge" alt="Telegram"/>
   </a>
  
   <a href="https://www.instagram.com/buben.ec/">
