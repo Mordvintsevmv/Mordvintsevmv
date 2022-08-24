@@ -15,11 +15,20 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" height="40" alt="js">
 </div>
 
-
-</br>
-
 ---
 
+<h2>Tools:</h2>
+
+<div id="tools">
+ <img src="https://github.com/JetBrains/logos/blob/master/web/pycharm/pycharm.svg" width="40" height="40" alt="pycharm">
+ <img src="https://github.com/JetBrains/logos/blob/master/web/clion/clion.svg" width="40" height="40" alt="clion">
+ <img src="https://github.com/JetBrains/logos/blob/master/web/webstorm/webstorm.svg" width="40" height="40" alt="webstorm">
+ <img src="https://github.com/JetBrains/logos/blob/master/web/intellij-idea/intellij-idea.svg" width="40" height="40" alt="intellij">
+ <img src="https://github.com/auchenberg/vscode-logo-svg/blob/master/vscode-logo.svg" width="40" height="40" alt="visualstudio">
+ <img src="https://seeklogo.com/images/S/sublime-text-logo-C2736A0B50-seeklogo.com.png" width="40" height="40" alt="sublime">
+</div>
+
+---
 <h2> Stats: </h2>
 
 
