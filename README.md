@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <img src="https://c.tenor.com/otSNUx7bno0AAAAi/monke-monkeroll.gif" width="100"/>
-  <h3>Good evening!</h3>
-  <h6>Good afternoon!</h6>
-  <h9>Good morning!</h9>
+  <h3 style="opacity: 0.5;">Good evening!</h3>
+  <h5>Good afternoon!</h5>
+  <h6>Good morning!</h6>
 </div>
 
 ---
