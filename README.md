@@ -6,7 +6,8 @@
 <h3>Languages:</h3>
 
 <div id="languages">
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg">
 </div>
 
 
