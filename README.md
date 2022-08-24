@@ -2,26 +2,23 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mordvintsevmv&layout=compact&bg_color=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://t.me/mordvintsevmv">Telegram</a>
-
-<a href="https://www.linkedin.com/in/mordvintsevmv/">Linkedin</a>
-
-<a href="https://www.instagram.com/buben.ec/">Instagram</a>
 
 ---
- ###Links:
+
+### Links:
+
+<div id="links">
  
-<!--
-**Mordvintsevmv/Mordvintsevmv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://www.linkedin.com/in/mordvintsevmv/">
+   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="LinkedIn"/>
+  </a>
+ 
+  <a href="https://t.me/mordvintsevmv">
+    <img src="https://img.shields.io/badge/Instagram-9cf?style=for-the-badge" alt="Telegram"/>
+  </a>
+ 
+  <a href="https://www.instagram.com/buben.ec/">
+   <img src="https://img.shields.io/badge/Instagram-blueviolet?style=for-the-badge" alt="Instagram"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
