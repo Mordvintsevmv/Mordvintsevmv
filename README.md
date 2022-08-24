@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://tenor.com/view/monke-monkeroll-monkeyroll-monkey-rolling-rolling-monkey-gif-22655583" align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mordvintsevmv&layout=compact&bg_color=dark)](https://github.com/anuraghazra/github-readme-stats)
 
