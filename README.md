@@ -1,4 +1,6 @@
-<img src="https://tenor.com/view/monke-monkeroll-monkeyroll-monkey-rolling-rolling-monkey-gif-22655583" align="center">
+<div id="header" align="center">
+  <img src="https://c.tenor.com/otSNUx7bno0AAAAi/monke-monkeroll.gif" width="100"/>
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mordvintsevmv&layout=compact&bg_color=dark)](https://github.com/anuraghazra/github-readme-stats)
 
