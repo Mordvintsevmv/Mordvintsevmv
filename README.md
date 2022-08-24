@@ -54,3 +54,11 @@
   </a>
 </div>
 
+<div id="email" align="center">
+<h6>mordvintsevmv@gmail.com</h6>
+</div>
+
+<div id="phone" align="center">
+<h6>+7-(904)-633-13-47</h6>
+</div>
+
