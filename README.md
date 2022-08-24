@@ -32,6 +32,20 @@
 </div>
 
 ---
+
+<h2>Learning now:</h2>
+
+<div id="learning">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="nodejs">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="react">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40" alt="vue">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="40" height="40" alt="php">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="40" height="40" alt="typescript">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" width="40" height="40" alt="unity">
+</div>
+
+---
+
 <h2> Stats: </h2>
 
 
