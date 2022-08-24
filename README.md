@@ -63,6 +63,10 @@
     <img src="https://img.shields.io/badge/Telegram-9cf?style=for-the-badge" alt="Telegram"/>
   </a>
  
+  <a href="https://leetcode.com/mordvintsevmv/">
+   <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge" alt="leetcode"/>
+  </a>
+  
   <a href="https://www.instagram.com/buben.ec/">
    <img src="https://img.shields.io/badge/Instagram-blueviolet?style=for-the-badge" alt="Instagram"/>
   </a>
