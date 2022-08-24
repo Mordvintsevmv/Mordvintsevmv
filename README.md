@@ -5,6 +5,7 @@
 ---
 
 <h2>Languages:</h2>
+
 <div id="languages">
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40" alt="python">
  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="40" height="40" alt="cpluplus">
@@ -20,6 +21,8 @@
 ---
 
 <h2> Stats: </h2>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mordvintsevmv&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
