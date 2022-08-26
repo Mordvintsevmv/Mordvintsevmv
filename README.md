@@ -79,6 +79,4 @@
 <div id="phone" align="center">
 <h6>+7-(904)-633-13-47</h6>
 </div>
-
-<div class="badge-base LI-profile-badge" data-locale="ru_RU" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mordvintsevmv" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ru.linkedin.com/in/mordvintsevmv?trk=profile-badge">Максим Мордвинцев</a></div>
               
