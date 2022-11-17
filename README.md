@@ -10,12 +10,14 @@
 <h2>Languages:</h2>
 
 <div id="languages">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="40" height="40" alt="html">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="40" height="40" alt="css">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" height="40" alt="js">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="react">
+
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40" alt="python">
  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="40" height="40" alt="cpluplus">
  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="40" height="40" alt="csharp">
- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="40" height="40" alt="html">
- <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="40" height="40" alt="css">
- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" height="40" alt="js">
 </div>
 
 ---
@@ -36,7 +38,6 @@
 <h2>Learning now:</h2>
 
 <div id="learning">
- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="react">
  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="nodejs">
  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="40" height="40" alt="php">
  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="40" height="40" alt="unity">
