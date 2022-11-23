@@ -14,6 +14,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="40" height="40" alt="css">
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" height="40" alt="js">
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="react">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="40" height="40" alt="typescript">
 
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40" alt="python">
  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="40" height="40" alt="cpluplus">
