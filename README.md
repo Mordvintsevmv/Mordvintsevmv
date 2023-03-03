@@ -33,9 +33,6 @@
 
 <div id="tools">
  <img src="https://github.com/JetBrains/logos/blob/master/web/webstorm/webstorm.svg" width="40" height="40" alt="webstorm">
- <img src="https://github.com/JetBrains/logos/blob/master/web/pycharm/pycharm.svg" width="40" height="40" alt="pycharm">
- <img src="https://github.com/JetBrains/logos/blob/master/web/clion/clion.svg" width="40" height="40" alt="clion">
- <img src="https://github.com/JetBrains/logos/blob/master/web/intellij-idea/intellij-idea.svg" width="40" height="40" alt="intellij">
  <img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" width="40" height="40" alt="visualstudio">
  <img src="https://seeklogo.com/images/S/sublime-text-logo-C2736A0B50-seeklogo.com.png" width="40" height="40" alt="sublime">
  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40" alt="figma">
