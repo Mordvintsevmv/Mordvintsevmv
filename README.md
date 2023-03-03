@@ -54,6 +54,16 @@
 
 ---
 
+<h2>Favorite projects:</h2>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mordvintsevmv&repo=marketplace)](https://github.com/mordvintsevmv/marketplace)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mordvintsevmv&repo=color_table)](https://github.com/mordvintsevmv/color_table)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mordvintsevmv&repo=trading_bot)](https://github.com/mordvintsevmv/trading_bot)
+
+---
+
 <h2> Stats: </h2>
 
 
